@@ -1,0 +1,126 @@
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Noto Sans Arabic Thin'), local('NotoSansArabic-Thin'), 
+  src: url('fonts/NotoSansArabicThin.eot');
+  src: url('fonts/NotoSansArabicThin.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicThin.woff2') format('woff2'),
+    url('fonts/NotoSansArabicThin.woff') format('woff'),
+    url('fonts/NotoSansArabicThin.ttf') format('truetype'),
+    url('fonts/NotoSansArabicThin.svg#NotoSansArabicThin') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Noto Sans Arabic ExtraLight'), local('NotoSansArabic-ExtraLight'), 
+  src: url('fonts/NotoSansArabicExtraLight.eot');
+  src: url('fonts/NotoSansArabicExtraLight.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicExtraLight.woff2') format('woff2'),
+    url('fonts/NotoSansArabicExtraLight.woff') format('woff'),
+    url('fonts/NotoSansArabicExtraLight.ttf') format('truetype'),
+    url('fonts/NotoSansArabicExtraLight.svg#NotoSansArabicExtraLight') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Noto Sans Arabic Light'), local('NotoSansArabic-Light'), 
+  src: url('fonts/NotoSansArabicLight.eot');
+  src: url('fonts/NotoSansArabicLight.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicLight.woff2') format('woff2'),
+    url('fonts/NotoSansArabicLight.woff') format('woff'),
+    url('fonts/NotoSansArabicLight.ttf') format('truetype'),
+    url('fonts/NotoSansArabicLight.svg#NotoSansArabicLight') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans Arabic Regular'), local('NotoSansArabic-Regular'), 
+  src: url('fonts/NotoSansArabicRegular.eot');
+  src: url('fonts/NotoSansArabicRegular.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicRegular.woff2') format('woff2'),
+    url('fonts/NotoSansArabicRegular.woff') format('woff'),
+    url('fonts/NotoSansArabicRegular.ttf') format('truetype'),
+    url('fonts/NotoSansArabicRegular.svg#NotoSansArabicRegular') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Noto Sans Arabic Medium'), local('NotoSansArabic-Medium'), 
+  src: url('fonts/NotoSansArabicMedium.eot');
+  src: url('fonts/NotoSansArabicMedium.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicMedium.woff2') format('woff2'),
+    url('fonts/NotoSansArabicMedium.woff') format('woff'),
+    url('fonts/NotoSansArabicMedium.ttf') format('truetype'),
+    url('fonts/NotoSansArabicMedium.svg#NotoSansArabicMedium') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Noto Sans Arabic SemiBold'), local('NotoSansArabic-SemiBold'), 
+  src: url('fonts/NotoSansArabicSemiBold.eot');
+  src: url('fonts/NotoSansArabicSemiBold.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicSemiBold.woff2') format('woff2'),
+    url('fonts/NotoSansArabicSemiBold.woff') format('woff'),
+    url('fonts/NotoSansArabicSemiBold.ttf') format('truetype'),
+    url('fonts/NotoSansArabicSemiBold.svg#NotoSansArabicSemiBold') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Arabic Bold'), local('NotoSansArabic-Bold'), 
+  src: url('fonts/NotoSansArabicBold.eot');
+  src: url('fonts/NotoSansArabicBold.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicBold.woff2') format('woff2'),
+    url('fonts/NotoSansArabicBold.woff') format('woff'),
+    url('fonts/NotoSansArabicBold.ttf') format('truetype'),
+    url('fonts/NotoSansArabicBold.svg#NotoSansArabicBold') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Noto Sans Arabic ExtraBold'), local('NotoSansArabic-ExtraBold'), 
+  src: url('fonts/NotoSansArabicExtraBold.eot');
+  src: url('fonts/NotoSansArabicExtraBold.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicExtraBold.woff2') format('woff2'),
+    url('fonts/NotoSansArabicExtraBold.woff') format('woff'),
+    url('fonts/NotoSansArabicExtraBold.ttf') format('truetype'),
+    url('fonts/NotoSansArabicExtraBold.svg#NotoSansArabicExtraBold') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Noto Sans Arabic Black'), local('NotoSansArabic-Black'), 
+  src: url('fonts/NotoSansArabicBlack.eot');
+  src: url('fonts/NotoSansArabicBlack.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicBlack.woff2') format('woff2'),
+    url('fonts/NotoSansArabicBlack.woff') format('woff'),
+    url('fonts/NotoSansArabicBlack.ttf') format('truetype'),
+    url('fonts/NotoSansArabicBlack.svg#NotoSansArabicBlack') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}

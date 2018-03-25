@@ -1,0 +1,42 @@
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Noto Sans Arabic Light'), local('NotoSansArabic-Light'), 
+  src: url('fonts/NotoSansArabicLight.eot');
+  src: url('fonts/NotoSansArabicLight.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicLight.woff2') format('woff2'),
+    url('fonts/NotoSansArabicLight.woff') format('woff'),
+    url('fonts/NotoSansArabicLight.ttf') format('truetype'),
+    url('fonts/NotoSansArabicLight.svg#NotoSansArabicLight') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans Arabic Regular'), local('NotoSansArabic-Regular'), 
+  src: url('fonts/NotoSansArabicRegular.eot');
+  src: url('fonts/NotoSansArabicRegular.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicRegular.woff2') format('woff2'),
+    url('fonts/NotoSansArabicRegular.woff') format('woff'),
+    url('fonts/NotoSansArabicRegular.ttf') format('truetype'),
+    url('fonts/NotoSansArabicRegular.svg#NotoSansArabicRegular') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}
+/* arabic */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Arabic Bold'), local('NotoSansArabic-Bold'), 
+  src: url('fonts/NotoSansArabicBold.eot');
+  src: url('fonts/NotoSansArabicBold.eot') format('embedded-opentype'),
+    url('fonts/NotoSansArabicBold.woff2') format('woff2'),
+    url('fonts/NotoSansArabicBold.woff') format('woff'),
+    url('fonts/NotoSansArabicBold.ttf') format('truetype'),
+    url('fonts/NotoSansArabicBold.svg#NotoSansArabicBold') format('svg');
+  unicode-range: U+0600-06FF, U+200B-2011, U+204F, U+2E41, U+FB50-FBC1, U+FBD3-FD3F, U+FD50-FD8F, U+FD92-FDC7, U+FDF0-FDFD, U+FE70-FE74, U+FE76-FEFC;
+}
